@@ -17,7 +17,7 @@ Basado en el análisis de correlación de Pearson y visualizaciones regionales:
 *   **Presión sobre el Sistema Público:** Se observa un aumento en la correlación entre las regiones con mayor consumo de ultraprocesados y el porcentaje de **hospitales públicos**, pasando de **0,16 a 0,36**.
 *   | **2017 (r=0,16)** | **2020 (r=0,32)** | **2023 (r=0,36)** |
 | :---: | :---: | :---: |
-| ![Hospitales 2017](img/Correlación_Hospitales_Publicos_ICU_Alto2017.png) | ![Hospitales 2020](img/Correlación_Hospitales_Publicos_ICU_Alto2020.png) | ![Hospitales 2023](img/Correlación_Hospitales_Publicos_ICU_Alto2023.png) |
+| ![Hospitales 2017](img/Correlación_Hospitales_Publicos_ICU_Alto_2017.png) | ![Hospitales 2020](img/Correlación_Hospitales_Publicos_ICU_Alto_2020.png) | ![Hospitales 2023](img/Correlación_Hospitales_Publicos_ICU_Alto_2023.png) |
 *   **Casos Regionales de Éxito y Alerta:**
 *   **Murcia:** Logró una reducción significativa del ICU_Alto, especialmente en jóvenes (16-24 años), bajando del **72,62% al 42,05%**.
 *   **Comunitat Valenciana:** Registró un incremento notable en su indicador de consumo de ultraprocesados, alcanzando el **43,4%** en 2023.
