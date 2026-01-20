@@ -29,3 +29,5 @@ de población, con los tres años del estudio (2017, 2020 y 2023), fue construid
 directamente en Power BI como parte del proceso de modelado, por lo que no se
 incluye como archivo CSV independiente en este repositorio.
 
+Para la construcción del dataset Hospitales_agregado_ALL.csv se utilizaron tablas auxiliares del INE (catálogo, CCAA y titularidad). Estas tablas se emplearon únicamente como apoyo para la agregación y clasificación, y no se incluyen en el repositorio para evitar redundancia. El proceso completo de transformación está documentado en los notebooks de la carpeta 04_Scripts.
+
